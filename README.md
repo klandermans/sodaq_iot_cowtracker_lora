@@ -13,3 +13,6 @@
 
 ![image](https://user-images.githubusercontent.com/653676/130446777-f5e11904-b9a4-4304-b64e-0fe83e0c2551.png)
 
+## Disable DEBUG & Commit settings
+* dbg=0
+* CS
